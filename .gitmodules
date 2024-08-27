@@ -1,0 +1,3 @@
+[submodule "infra-provisioning-terraform"]
+	path = infra-provisioning-terraform
+	url = https://github.com/tamtamcoding/infra-provisioning-terraform.git
